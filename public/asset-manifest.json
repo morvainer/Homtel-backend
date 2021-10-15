@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3656885c.chunk.css",
+    "main.js": "/static/js/main.d041c8f4.chunk.js",
+    "main.js.map": "/static/js/main.d041c8f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef6b1d0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef6b1d0b.js.map",
+    "static/css/2.b7744081.chunk.css": "/static/css/2.b7744081.chunk.css",
+    "static/js/2.9e84cf77.chunk.js": "/static/js/2.9e84cf77.chunk.js",
+    "static/js/2.9e84cf77.chunk.js.map": "/static/js/2.9e84cf77.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b7744081.chunk.css.map": "/static/css/2.b7744081.chunk.css.map",
+    "static/css/main.3656885c.chunk.css.map": "/static/css/main.3656885c.chunk.css.map",
+    "static/js/2.9e84cf77.chunk.js.LICENSE.txt": "/static/js/2.9e84cf77.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/AirbnbCerealMedium.8a9ee957.woff",
+    "static/media/brooklynLoft.e7db3564.jpg": "/static/media/brooklynLoft.e7db3564.jpg",
+    "static/media/loader.3e80efae.svg": "/static/media/loader.3e80efae.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef6b1d0b.js",
+    "static/css/2.b7744081.chunk.css",
+    "static/js/2.9e84cf77.chunk.js",
+    "static/css/main.3656885c.chunk.css",
+    "static/js/main.d041c8f4.chunk.js"
+  ]
+}
